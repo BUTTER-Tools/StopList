@@ -30,7 +30,7 @@ namespace StopList
 
         public string PluginName { get; } = "Remove Stop Words";
         public string PluginType { get; } = "Preprocessing";
-        public string PluginVersion { get; } = "1.0.3";
+        public string PluginVersion { get; } = "1.0.31";
         public string PluginAuthor { get; } = "Ryan L. Boyd (ryan@ryanboyd.io)";
         public string PluginDescription { get; } = "Omit words from your list of tokens.";
         public bool TopLevel { get; } = false;
